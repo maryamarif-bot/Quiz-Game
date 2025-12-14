@@ -1,0 +1,306 @@
+Q. What is the main function of an operating system
+a To store data
+b To manage hardware and software
+c To browse the internet
+d To edit documents
+b
+Q. Which memory is volatile
+a ROM
+b RAM
+c SSD
+d HDD
+b
+Q. Full form of BIOS
+a Basic Input Output System
+b Binary Input Output System
+c Basic Internal Output System
+d Binary Internal Output System
+a
+Q. Which is a markup language
+a C++
+b HTML
+c Python
+d Java
+b
+Q. What is the function of DNS
+a Convert domain name to IP address
+b Connect computer to monitor
+c Store files permanently
+d Perform calculations
+a
+Q. Which device connects a computer to the internet
+a Router
+b Keyboard
+c Monitor
+d Printer
+a
+Q. Which is non-volatile memory
+a RAM
+b ROM
+c Cache
+d Register
+b
+Q. What is the main function of a compiler
+a Execute program line by line
+b Convert source code to machine code
+c Store data
+d Input data
+b
+Q. Which of the following is not an input device
+a Keyboard
+b Mouse
+c Scanner
+d Monitor
+d
+Q. Which is an example of application software
+a Windows
+b MS Word
+c BIOS
+d CPU
+b
+Q. Cloud storage example
+a Google Drive
+b SSD
+c RAM
+d ROM
+a
+Q. Which port is used for USB devices
+a HDMI
+b USB
+c VGA
+d RJ45
+b
+Q. What is the main function of ALU
+a Store data
+b Perform arithmetic and logic operations
+c Display images
+d Connect to network
+b
+Q. Which network type covers small area
+a LAN
+b WAN
+c MAN
+d VPN
+a
+Q. Which of the following is not programming language
+a Python
+b C++
+c HTML
+d Windows
+d
+Q. Which of these is a type of computer virus
+a Trojan
+b Worm
+c Spyware
+d All above
+d
+Q. Which is a software development methodology
+a Agile
+b SSD
+c RAM
+d HTML
+a
+Q. Which computer component controls all other components
+a GPU
+b CPU
+c RAM
+d ROM
+b
+Q. What is the main function of cache memory
+a Long term storage
+b Store frequently used data for fast access
+c Input data
+d Display data
+b
+Q. What does HTTP stand for
+a Hyper Text Transfer Protocol
+b High Text Transfer Protocol
+c Hyper Transmission Text Protocol
+d Hyper Text Transmission Process
+a
+Q. Which is a programming paradigm
+a Object Oriented
+b Functional
+c Procedural
+d All above
+d
+Q. IP address identifies
+a A device on network
+b A file
+c A website content
+d A program
+a
+Q. Which device converts digital signal to analog for internet
+a Modem
+b Router
+c Switch
+d Hub
+a
+Q. Which software is used to browse internet
+a Word
+b Chrome
+c Excel
+d Photoshop
+b
+Q. Shortcut to refresh a page
+a F5
+b F1
+c Ctrl C
+d Ctrl V
+a
+Q. Which of the following is an output device
+a Monitor
+b Keyboard
+c Mouse
+d Scanner
+a
+Q. Full form of LAN
+a Local Area Network
+b Large Area Network
+c Linked Area Network
+d Local Access Network
+a
+Q. Which is high level programming language
+a Assembly
+b Python
+c Machine code
+d Binary
+b
+Q. Which device stores permanent data
+a ROM
+b RAM
+c Cache
+d Register
+a
+Q. Which type of memory is read only
+a RAM
+b ROM
+c Cache
+d Register
+b
+Q. What is the role of GPU
+a Execute arithmetic
+b Render graphics
+c Store data
+d Connect to internet
+b
+Q. Which is used to connect two networks
+a Router
+b Monitor
+c Printer
+d CPU
+a
+Q. File extension of Word document
+a docx
+b xlsx
+c pptx
+d pdf
+a
+Q. Example of operating system
+a Linux
+b Chrome
+c Python
+d Word
+a
+Q. Example of database software
+a MySQL
+b Chrome
+c Photoshop
+d Excel
+a
+Q. Which programming language is used for web scripting
+a JavaScript
+b C++
+c Python
+d Java
+a
+Q. Network connecting large area
+a WAN
+b LAN
+c MAN
+d PAN
+a
+Q. Full form of VPN
+a Virtual Private Network
+b Very Private Network
+c Virtual Public Network
+d Virtual Personal Node
+a
+Q. What is phishing
+a A network cable
+b A type of cyber attack
+c A programming language
+d A printer
+b
+Q. Main function of OS
+a Manage CPU memory and I/O
+b Store data permanently
+c Display graphics
+d Connect to internet
+a
+Q. Which is high speed memory
+a Cache
+b ROM
+c HDD
+d SSD
+a
+Q. Which device is used for video conferencing
+a Webcam
+b Keyboard
+c Monitor
+d Printer
+a
+Q. Extension of C++ file
+a cpp
+b py
+c java
+d txt
+a
+Q. Full form of GUI
+a Graphical User Interface
+b General User Input
+c Graphical Unit Interface
+d General User Interface
+a
+Q. Example of spreadsheet software
+a Excel
+b Word
+c Chrome
+d Photoshop
+a
+Q. Function of modem
+a Convert digital to analog signal
+b Display output
+c Input data
+d Store data
+a
+Q. What is trojan horse
+a Virus disguised as software
+b Storage device
+c Browser
+d Programming language
+a
+Q. Example of high level language
+a Python
+b Assembly
+c Machine code
+d Binary
+a
+Q. Which is not computer language
+a HTML
+b Windows
+c Python
+d C++
+b
+Q. Which is permanent memory
+a ROM
+b RAM
+c Cache
+d Register
+a
+Q. Which memory is fastest
+a Cache
+b RAM
+c HDD
+d SSD
+a

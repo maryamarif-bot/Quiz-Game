@@ -1,0 +1,318 @@
+Q. Which of the following is a low-level language
+a Python
+b Assembly
+c Java
+d HTML
+b
+Q. What is virtual memory
+a Memory on CPU
+b Part of HDD used as RAM
+c Cache memory
+d ROM
+b
+Q. Which protocol is used for secure communication on internet
+a HTTP
+b HTTPS
+c FTP
+d TCP
+b
+Q. What is main function of DNS server
+a Store web pages
+b Translate domain names to IP addresses
+c Connect hardware
+d Run programs
+b
+Q. Which is an example of non-relational database
+a MySQL
+b MongoDB
+c Oracle
+d SQL Server
+b
+Q. Which scheduling algorithm is preemptive
+a FCFS
+b SJF non-preemptive
+c Round Robin
+d Priority non-preemptive
+c
+Q. Which of the following is cloud computing service
+a SaaS
+b PaaS
+c IaaS
+d All above
+d
+Q. What is purpose of firewall
+a Encrypt data
+b Prevent unauthorized access
+c Increase RAM
+d Render graphics
+b
+Q. Which is an address used in networking
+a MAC address
+b IP address
+c Both a and b
+d Browser address
+c
+Q. RAID 1 provides
+a Disk mirroring
+b Disk striping
+c Disk parity
+d Disk caching
+a
+Q. Full form of SSL
+a Secure Sockets Layer
+b Secure System Layer
+c System Sockets Layer
+d Secure Software Layer
+a
+Q. What is kernel in OS
+a User interface
+b Core part managing resources
+c Storage device
+d CPU
+b
+Q. Which is NOT relational database model
+a Hierarchical
+b Network
+c Object Oriented
+d SQL
+d
+Q. Which is used for version control
+a Git
+b Python
+c C++
+d Chrome
+a
+Q. What is purpose of IP address
+a Identify device on network
+b Encrypt data
+c Render graphics
+d Manage memory
+a
+Q. Which is a cyber attack method
+a Phishing
+b DDoS
+c Malware
+d All above
+d
+Q. Which of the following is an interpreted language
+a C++
+b Python
+c Java
+d Assembly
+b
+Q. Which OS supports multitasking
+a DOS
+b Windows
+c MS-DOS
+d None
+b
+Q. Which data structure uses FIFO
+a Stack
+b Queue
+c Tree
+d Graph
+b
+Q. Which data structure uses LIFO
+a Stack
+b Queue
+c Linked List
+d Graph
+a
+Q. What is function of BIOS
+a Initialize hardware at startup
+b Execute programs
+c Store documents
+d Display graphics
+a
+Q. Which is a NoSQL database
+a Oracle
+b MongoDB
+c SQL Server
+d MySQL
+b
+Q. Which is a Linux command to list files
+a ls
+b dir
+c list
+d show
+a
+Q. Which is a binary search requirement
+a Sorted array
+b Unsorted array
+c Linked list
+d Graph
+a
+Q. Which is used to prevent SQL injection
+a Input validation
+b Output validation
+c Firewall
+d Antivirus
+a
+Q. Which is not a primary key property
+a Uniqueness
+b Null allowed
+c Single value
+d Identification
+b
+Q. Which is type of cloud deployment
+a Public
+b Private
+c Hybrid
+d All above
+d
+Q. Which of the following is a logical operator in C++
+a &&
+b ||
+c !
+d All above
+d
+Q. Which protocol is used for sending emails
+a SMTP
+b FTP
+c HTTP
+d TCP
+a
+Q. What is DHCP used for
+a Assign IP addresses automatically
+b Secure network
+c Store data
+d Render graphics
+a
+Q. Which is virtualization technology
+a VMware
+b Hyper-V
+c VirtualBox
+d All above
+d
+Q. Which is a deadlock prevention method
+a Wait-die
+b Wound-wait
+c Resource allocation graph
+d All above
+d
+Q. Which memory is fastest in computer
+a Cache
+b RAM
+c SSD
+d HDD
+a
+Q. Which is symmetric encryption algorithm
+a AES
+b RSA
+c ECC
+d Diffie-Hellman
+a
+Q. Which is asymmetric encryption algorithm
+a AES
+b RSA
+c DES
+d SHA
+b
+Q. Which is function of linker
+a Combine object files into executable
+b Compile source code
+c Allocate memory
+d Execute programs
+a
+Q. What is purpose of shell in OS
+a Provide command interface
+b Store files
+c Render graphics
+d Manage memory
+a
+Q. Which network topology has central hub
+a Star
+b Ring
+c Bus
+d Mesh
+a
+Q. Which is a kernel mode operation
+a File read
+b Execute privileged instruction
+c User input
+d Display output
+b
+Q. What is purpose of semaphore in OS
+a Manage process synchronization
+b Encrypt data
+c Store files
+d Display graphics
+a
+Q. Which algorithm is used in shortest path
+a Dijkstra
+b Quick sort
+c Merge sort
+d BFS
+a
+Q. Which is type of machine learning
+a Supervised
+b Unsupervised
+c Reinforcement
+d All above
+d
+Q. Which port is used by HTTP
+a 80
+b 443
+c 21
+d 25
+a
+Q. Which port is used by HTTPS
+a 80
+b 443
+c 21
+d 25
+b
+Q. Which is primary function of database index
+a Speed up query
+b Store data
+c Encrypt data
+d Manage memory
+a
+Q. Which is not OS scheduling algorithm
+a FCFS
+b SJF
+c Round Robin
+d Binary Search
+d
+Q. Which command in Linux changes file permission
+a chmod
+b chown
+c ls
+d pwd
+a
+Q. Which language is used for AI programming
+a Python
+b C++
+c Java
+d All above
+d
+Q. Which of the following is a file system
+a NTFS
+b FAT32
+c ext4
+d All above
+d
+Q. Full form of API
+a Application Programming Interface
+b Application Protocol Interface
+c Advanced Programming Interface
+d Advanced Protocol Interface
+a
+Q. Which is a deadlock detection method
+a Wait-for graph
+b Resource allocation
+c Priority scheduling
+d All above
+a
+Q. Which protocol is used to transfer files
+a FTP
+b SMTP
+c HTTP
+d DNS
+a
+Q. What is main function of load balancer
+a Distribute network traffic
+b Encrypt data
+c Store files
+d Render graphics
+a

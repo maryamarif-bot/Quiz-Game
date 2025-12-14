@@ -1,0 +1,288 @@
+Q. Find the next number in series 2 3 5 8 12
+a 16
+b 17
+c 18
+d 19
+b
+Q. Which is odd one out 121 144 169 196 200
+a 121
+b 144
+c 169
+d 200
+d
+Q. Complete the series 1 4 9 16 25 
+a 30
+b 36
+c 35
+d 40
+b
+Q. If A 1 B 2 C 3 D 4 then BAD
+a 214
+b 124
+c 214
+d 241
+a
+Q. Find the missing number 3 6 12 24 48 
+a 96
+b 90
+c 100
+d 108
+a
+Q. Which number comes next 5 10 20 40 
+a 60
+b 70
+c 80
+d 90
+c
+Q. Find the odd one out DOG CAT TIGER LION COW
+a DOG
+b CAT
+c TIGER
+d COW
+d
+Q. Solve 2 3 4 5 pattern 2 + 3 * 4 
+a 14
+b 20
+c 12
+d 16
+a
+Q. Complete the pattern 1 2 4 8 16 
+a 24
+b 32
+c 28
+d 30
+b
+Q. Find the next letter in series A C F J 
+a N
+b M
+c K
+d L
+a
+Q. Which number is missing 1 8 27 64 
+a 81
+b 100
+c 125
+d 144
+c
+Q. Find the odd one out PEN PENCIL ERASER BOOK TABLE
+a PEN
+b PENCIL
+c ERASER
+d TABLE
+d
+Q. Complete the series 2 3 5 7 11 
+a 13
+b 14
+c 15
+d 16
+a
+Q. Find the next letter in series B D G K 
+a O
+b N
+c M
+d P
+a
+Q. Which number is divisible by 5 12 15 20 23
+a 12
+b 15
+c 20
+d 23
+b
+Q. If sum of first n natural numbers formula n n+1 2 then sum of first 10
+a 55
+b 60
+c 50
+d 65
+a
+Q. Find the missing number 3 6 12 24 48 
+a 96
+b 100
+c 90
+d 110
+a
+Q. Which comes next in series 1 3 6 10 15 21 
+a 27
+b 28
+c 29
+d 30
+b
+Q. Find the odd one out TIGER LION LEOPARD DOG
+a TIGER
+b LION
+c LEOPARD
+d DOG
+d
+Q. Solve pattern 2 5 10 17 26 
+a 37
+b 38
+c 39
+d 40
+b
+Q. Find the missing number 4 9 16 25 
+a 30
+b 36
+c 35
+d 40
+b
+Q. Which number comes next 1 8 27 64 125 
+a 150
+b 216
+c 200
+d 180
+b
+Q. Find the odd one out TABLE CHAIR BED MONITOR
+a TABLE
+b CHAIR
+c BED
+d MONITOR
+d
+Q. Complete the series 2 6 12 20 30 
+a 36
+b 40
+c 42
+d 44
+c
+Q. Find the next letter in series C F I L 
+a O
+b P
+c Q
+d N
+a
+Q. Which number comes next 2 6 12 20 30 42 
+a 54
+b 56
+c 48
+d 60
+a
+Q. Find the odd one out 5 10 15 21 20
+a 5
+b 10
+c 15
+d 21
+d
+Q. Solve 5 * 2 + 3 * 2 
+a 16
+b 18
+c 20
+d 22
+b
+Q. Which number is largest 001 01 0001 00001
+a 001
+b 01
+c 0001
+d 00001
+b
+Q. Complete the pattern 3 6 12 24 
+a 36
+b 48
+c 40
+d 50
+b
+Q. Find the next letter in series C F I L 
+a O
+b P
+c Q
+d N
+a
+Q. Which number comes next 2 6 12 20 30 
+a 36
+b 40
+c 42
+d 45
+c
+Q. Find the odd one out 7 14 21 30 28
+a 7
+b 14
+c 21
+d 30
+d
+Q. If 4 5 20 5 6 30 then 7 8 
+a 56
+b 60
+c 70
+d 64
+b
+Q. Complete the series 1 2 4 8 16 32 64 
+a 120
+b 128
+c 130
+d 140
+b
+Q. Find the next letter in series A B D G K 
+a P
+b N
+c M
+d O
+a
+Q. Which is odd one out CAR BUS TRAIN BIKE
+a CAR
+b BUS
+c TRAIN
+d BIKE
+d
+Q. Complete the series 1 2 6 24 120 
+a 720
+b 600
+c 7200
+d 6000
+a
+Q. Find the missing number 5 10 20 40 80 
+a 160
+b 170
+c 150
+d 180
+a
+Q. Which comes next in series 1 3 6 10 15 21 28 
+a 35
+b 36
+c 37
+d 38
+a
+Q. Find the odd one out TIGER LION LEOPARD ELEPHANT DOG
+a TIGER
+b LION
+c LEOPARD
+d DOG
+d
+Q. Solve pattern 2 5 10 17 26 37 
+a 49
+b 50
+c 51
+d 52
+b
+Q. Find the missing number 1 4 9 16 25 36 
+a 49
+b 50
+c 48
+d 45
+a
+Q. Which number comes next 2 6 12 20 30 42 56 
+a 70
+b 72
+c 74
+d 76
+a
+Q. Find the odd one out 2 4 6 8 11 10
+a 2
+b 4
+c 6
+d 11
+d
+Q. Which number is largest 01 001 0001 00001
+a 01
+b 001
+c 0001
+d 00001
+b
+Q. Complete the pattern 3 6 9 12 16 
+a 20
+b 21
+c 22
+d 23
+b
+Q. Find the next letter in series C F I L 
+a O
+b P
+c Q
+d N
+a

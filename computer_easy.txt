@@ -1,0 +1,300 @@
+Q. CPU stands for
+a Central Program Unit
+b Central Processing Unit
+c Control Processing Unit
+d Central Programming Utility
+b
+Q. Which is input device
+a Printer
+b Monitor
+c Keyboard
+d Speaker
+c
+Q. Binary of 2
+a 01
+b 10
+c 11
+d 00
+b
+Q. Which is OS
+a Excel
+b Word
+c Windows
+d Chrome
+c
+Q. Stores data permanently
+a RAM
+b ROM
+c Cache
+d Register
+b
+Q. Programming language
+a Mouse
+b Python
+c Excel
+d USB
+b
+Q. 1 byte equals
+a 4 bits
+b 8 bits
+c 16 bits
+d 32 bits
+b
+Q. Temporary memory
+a ROM
+b CPU
+c RAM
+d SSD
+c
+Q. WWW stands for
+a World Whole Web
+b World Wide Web
+c Wide Web World
+d Web World Wide
+b
+Q. Which is browser
+a Google
+b Chrome
+c Windows
+d Excel
+b
+Q. Output device
+a Mouse
+b Keyboard
+c Monitor
+d Scanner
+c
+Q. Binary base
+a 4
+b 8
+c 10
+d 2
+d
+Q. Brain of computer
+a CPU
+b GPU
+c RAM
+d ROM
+a
+Q. Which is storage
+a SSD
+b Keyboard
+c Mouse
+d Monitor
+a
+Q. C++ extension
+a txt
+b mp4
+c cpp
+d jpg
+c
+Q. NOT hardware
+a Keyboard
+b Windows
+c Mouse
+d CPU
+b
+Q. Mouse is
+a Input device
+b Output device
+c Storage device
+d Processing device
+a
+Q. Search engine
+a Word
+b Excel
+c Google
+d Notepad
+c
+Q. ALU performs
+a Storing
+b Calculation
+c Graphics
+d Input
+b
+Q. Key deleting left
+a Backspace
+b Delete
+c Enter
+d Shift
+a
+Q. CPU speed measured in
+a Hertz
+b Byte
+c Pixel
+d Volt
+a
+Q. Example of output device
+a Printer
+b Keyboard
+c Mouse
+d Scanner
+a
+Q. Internet full form
+a International Net Wide
+b Interconnected Network
+c Internet
+d Intelligent Network
+c
+Q. Shortcut to copy
+a Ctrl C
+b Ctrl V
+c Ctrl X
+d Ctrl Z
+a
+Q. Shortcut to paste
+a Ctrl C
+b Ctrl V
+c Ctrl X
+d Ctrl Z
+b
+Q. Shortcut to cut
+a Ctrl C
+b Ctrl V
+c Ctrl X
+d Ctrl Z
+c
+Q. Shortcut to undo
+a Ctrl C
+b Ctrl V
+c Ctrl X
+d Ctrl Z
+d
+Q. Device to display graphics
+a Monitor
+b Printer
+c Keyboard
+d Mouse
+a
+Q. Memory that loses data when power off
+a ROM
+b RAM
+c SSD
+d HDD
+b
+Q. Memory that keeps data permanently
+a RAM
+b ROM
+c CPU
+d Cache
+b
+Q. Example of programming language
+a Python
+b Excel
+c Chrome
+d SSD
+a
+Q. Common input device
+a Keyboard
+b Monitor
+c Printer
+d Speaker
+a
+Q. Common output device
+a Keyboard
+b Monitor
+c Mouse
+d CPU
+b
+Q. CPU stands for
+a Central Program Unit
+b Central Processing Unit
+c Control Processing Unit
+d Central Programming Utility
+b
+Q. Full form of URL
+a Uniform Resource Locator
+b Universal Resource Link
+c Unified Resource Location
+d Unique Resource Locator
+a
+Q. Full form of HTTP
+a Hyper Text Transfer Protocol
+b High Text Transfer Protocol
+c Hyper Transfer Text Protocol
+d Hyper Text Transmission Protocol
+a
+Q. Number system used by computers
+a Decimal
+b Binary
+c Octal
+d Hexadecimal
+b
+Q. Number of bits in a byte
+a 4
+b 8
+c 16
+d 32
+b
+Q. Software used to create documents
+a Word
+b Excel
+c Chrome
+d Windows
+a
+Q. Which is storage device
+a SSD
+b Keyboard
+c Mouse
+d CPU
+a
+Q. Network connecting computers
+a LAN
+b RAM
+c CPU
+d ROM
+a
+Q. Key to enter data
+a Enter
+b Shift
+c Backspace
+d Delete
+a
+Q. Example of OS
+a Windows
+b Chrome
+c Python
+d SSD
+a
+Q. Computer language
+a Python
+b HTML
+c C++
+d All above
+d
+Q. CPU performs
+a Input
+b Processing
+c Output
+d Storage
+b
+Q. Monitor is
+a Output device
+b Input device
+c Storage device
+d Processing device
+a
+Q. Printer is
+a Output device
+b Input device
+c Storage device
+d Processing device
+a
+Q. Mouse function
+a Input
+b Output
+c Storage
+d Processing
+a
+Q. Website address starts with
+a www
+b http
+c https
+d All above
+d
+Q. Full form of GUI
+a Graphical User Interface
+b General User Interface
+c Graph User Input
+d Graphic User Internet
+a
